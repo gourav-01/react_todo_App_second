@@ -55,7 +55,7 @@ function App() {
                                   index={index} deleteTask={deleteTask}/>) :
                     <p className="no-item-text"><span role="img" aria-label="react">📌</span> &nbsp;No Task Added !</p>}
             </div>
-            <p className="footer-text">The Indian Dev</p>
+            <p className="footer-text">by Gourav</p>
         </div>
     );
 }
